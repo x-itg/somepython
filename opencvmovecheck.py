@@ -3,6 +3,7 @@
 # 打开VSCODE下cmd终端
 # 运行安装opencv-python==3.4.1.15和opencv-contrib-python==3.4.1.15：
 # python -m ensurepip --default-pip
+# pip install pip -U
 # pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 # pip install opencv-python==3.4.1.15
 # pip install opencv-contrib-python==3.4.1.15
