@@ -1,3 +1,9 @@
+# 下载安装anaconda： https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.1.0-Windows-x86_64.exe
+# VSCode 右下角选择python解释器 选择刚才安装的anacoda下的python3.6
+# 打开VSCODE下cmd终端
+# 运行安装opencv-python==3.14.1.15和opencv-contrib-python==3.14.1.15：
+# pip install opencv-python==3.14.1.15
+# pip install opencv-contrib-python==3.14.1.15
 import cv2
 import numpy as np
 # 这里打开网络电视测试一下 摄像头的话  camera = cv2.VideoCapture(0)
