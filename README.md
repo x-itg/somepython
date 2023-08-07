@@ -9,3 +9,8 @@
 - 这是一个三角式机械臂的仿真脚本
 - 输入末端执行器的xyz坐标逆向运动解得出三个角度后
 - 用这三个角度重新顺向运动解出末端执行器的xyz坐标并绘制出坐标点
+
+# opencvmovecheck.py
+- 运行 python opencvmovecheck.py
+- 这是一个利用opencv检测移动物体的脚本
+- 为了测试方便这里cv2.VideoCapture打开的是一个网络视频如果改成cv2.VideoCapture(0)就是打开usb摄像头
